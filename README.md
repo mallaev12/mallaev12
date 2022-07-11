@@ -1,4 +1,18 @@
-### Hi there 👋
+### Привет 👋
+Я веб-разработчик из Новосибирска!) 
+
+Пишу на PHP. Владею JS, CSS, HTML, SQL.
+
+Есть опыт работы с различными CMS, такие как Bitrix, WordPress, MODX и т.д.
+
+На данный момент работаю в компаний Intelsib, младшим разработчиком.
+
+Связь со мной:
+
+Telegram : @agrum
+
+E-mail : mallaev.yakov@yandex.ru
+
 
 <!--
 **mallaev12/mallaev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
